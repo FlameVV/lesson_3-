@@ -1,0 +1,30 @@
+h1 {
+	color: blue;
+}
+ul li a {
+	color: red;
+}
+.text {
+	color: violet;
+}
+#section1,
+#section2,
+#section3,
+#section4 {
+	color: green;
+}
+.paragraf {
+	color: yellowgreen;
+}
+p {
+	color: purple;
+}
+.sector {
+	color: orangered;
+}
+div {
+	color: blue;
+}
+.sector2 {
+	color: sienna;
+}
